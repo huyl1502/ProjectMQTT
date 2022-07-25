@@ -1,0 +1,39 @@
+﻿<Window xmlns:Controls="clr-namespace:System.Windows.Controls" x:Class="System.Windows.Controls.MyMessageBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Message" Height="250" Width="400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" ShowInTaskbar="False" FontFamily="Calbiri">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Margin="13" Grid.ColumnSpan="3">
+            <TextBlock x:Name="Message" Text="Message" FontSize =" 15"></TextBlock>
+        </Grid>
+
+        <Border Grid.Row="2">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Controls:CreateAction x:Name="OK" Text="OK" HorizontalAlignment="Center" Grid.Column="0"
+                              Width="150" FontSize="15" Background="White" Margin="5"></Controls:CreateAction>
+                <Controls:CancelAction x:Name="Cancel" Text="Cancel" HorizontalAlignment="Center" Grid.Column="1"
+                              Width="150" FontSize="15" Background="White" Margin="5"></Controls:CancelAction>
+            </Grid>
+        </Border>
+        <!--<StackPanel Grid.Row="2"
+                    Width="164"
+                        Orientation="Horizontal"
+                        HorizontalAlignment="Center" >
+            <Button Width="0" Margin="2" x:Name="OK">OK</Button>
+            <Button Width="80" Margin="42, 2, 2, 2"
+                    x:Name="Cancel">Close</Button>
+        </StackPanel>-->
+    </Grid>
+</Window>

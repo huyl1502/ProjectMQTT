@@ -1,0 +1,9 @@
+F:\Pj\FireDetect\Models\bin\Debug\Models.dll
+F:\Pj\FireDetect\Models\bin\Debug\Models.pdb
+F:\Pj\FireDetect\Models\bin\Debug\Newtonsoft.Json.Bson.dll
+F:\Pj\FireDetect\Models\bin\Debug\Newtonsoft.Json.dll
+F:\Pj\FireDetect\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+F:\Pj\FireDetect\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+F:\Pj\FireDetect\Models\obj\Debug\Models.csproj.CopyComplete
+F:\Pj\FireDetect\Models\obj\Debug\Models.dll
+F:\Pj\FireDetect\Models\obj\Debug\Models.pdb

@@ -1,0 +1,61 @@
+﻿<Window xmlns:Controls="clr-namespace:System.Windows.Controls" x:Class="FireDetect.Views.Building.CreateForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FireDetect.Views.Building"
+        mc:Ignorable="d"
+        Title="Tạo tòa nhà" Height="550" Width="500" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="MainContent" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Background="White">
+            <Border Background="White" BorderBrush="White"
+            VerticalAlignment="Center"
+            Padding="7, 10" Margin="25, 7">
+                <StackPanel>
+                    <Label Content="Tên:" FontSize="15"></Label>
+                    <TextBox x:Name="name" FontSize="15" BorderThickness="0, 0, 0, 1" Padding="5, 7"></TextBox>
+                </StackPanel>
+            </Border>
+            <Border Background="White" BorderBrush="White"
+            VerticalAlignment="Center"
+            Padding="7, 10" Margin="25, 7">
+                <StackPanel>
+                    <Label Content="Địa chỉ:" FontSize="15"></Label>
+                    <TextBox x:Name="address" FontSize="15" BorderThickness="0, 0, 0, 1" Padding="5, 7"></TextBox>
+                </StackPanel>
+            </Border>
+            <Border Background="White" BorderBrush="White"
+            VerticalAlignment="Center"
+            Padding="7, 10" Margin="25, 7">
+                <StackPanel>
+                    <Label Content="Số tầng:" FontSize="15"></Label>
+                    <TextBox x:Name="no_floors" FontSize="15" BorderThickness="0, 0, 0, 1" Padding="5, 7"></TextBox>
+                </StackPanel>
+            </Border>
+            <Border Background="White" BorderBrush="White"
+            VerticalAlignment="Center"
+            Padding="7, 10" Margin="25, 7">
+                <StackPanel>
+                    <Label Content="Số căn hộ mỗi tầng:" FontSize="15"></Label>
+                    <TextBox x:Name="no_apartment_per_floor" FontSize="15" BorderThickness="0, 0, 0, 1" Padding="5, 7"></TextBox>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Background="White" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Controls:CreateAction Click="Create_Clicked" HorizontalAlignment="Center" Grid.Column="0"
+                              Width="150" FontSize="15" Background="White" Margin="0,0,10,15" Text="Xác nhận"></Controls:CreateAction>
+                <Controls:CancelAction Click="Cancel_Clicked" HorizontalAlignment="Center" Grid.Column="1"
+                              Width="150" FontSize="15" Background="White" Margin="10,0,0,15"></Controls:CancelAction>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>

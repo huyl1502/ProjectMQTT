@@ -1,0 +1,39 @@
+D:\Programming\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.dll
+D:\Programming\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.pdb
+D:\Programming\MQTT\Mqtt.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CoreCompileInputs.cache
+D:\Programming\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CopyComplete
+D:\Programming\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.dll
+D:\Programming\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.pdb
+D:\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.dll
+D:\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.pdb
+D:\MQTT\Mqtt.Models\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CoreCompileInputs.cache
+D:\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CopyComplete
+D:\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.dll
+D:\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.pdb
+D:\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csprojAssemblyReference.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.AssemblyReference.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CoreCompileInputs.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CopyComplete
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.pdb
+F:\Project\Server\serverMqtt\Mqtt.Models\bin\Debug\Mqtt.Models.dll
+F:\Project\Server\serverMqtt\Mqtt.Models\bin\Debug\Mqtt.Models.pdb
+F:\Project\Server\serverMqtt\Mqtt.Models\bin\Debug\Newtonsoft.Json.dll
+F:\Project\Server\serverMqtt\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.AssemblyReference.cache
+F:\Project\Server\serverMqtt\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CoreCompileInputs.cache
+F:\Project\Server\serverMqtt\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CopyComplete
+F:\Project\Server\serverMqtt\Mqtt.Models\obj\Debug\Mqtt.Models.dll
+F:\Project\Server\serverMqtt\Mqtt.Models\obj\Debug\Mqtt.Models.pdb
+F:\Pj\serverMqtt\Mqtt.Models\bin\Debug\Mqtt.Models.dll
+F:\Pj\serverMqtt\Mqtt.Models\bin\Debug\Mqtt.Models.pdb
+F:\Pj\serverMqtt\Mqtt.Models\bin\Debug\Newtonsoft.Json.dll
+F:\Pj\serverMqtt\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.AssemblyReference.cache
+F:\Pj\serverMqtt\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CoreCompileInputs.cache
+F:\Pj\serverMqtt\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CopyComplete
+F:\Pj\serverMqtt\Mqtt.Models\obj\Debug\Mqtt.Models.dll
+F:\Pj\serverMqtt\Mqtt.Models\obj\Debug\Mqtt.Models.pdb

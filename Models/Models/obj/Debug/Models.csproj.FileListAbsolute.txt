@@ -1,0 +1,2 @@
+F:\Pj\Models\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+F:\Pj\Models\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
